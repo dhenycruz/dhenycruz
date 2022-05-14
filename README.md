@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Dheniarley! 🚀
-- 🔭  Estudante de Desenvolvimento Web na Trybe.
+- 🔭  Desenvolvedor Full Stack Jr. e estudante na Trybe.
 - 🌱  Atualmente estou focado aprendendo TypeScrypt, colocando em prática o que venho aprendendo na Trybe.
 - 🛠️  Também estou desenvolvendo um projeto pessoal para fins didáticos:
     - <a href="https://github.com/dhenycruz/front-futebol-tips">Futebol-Tips</a>:
