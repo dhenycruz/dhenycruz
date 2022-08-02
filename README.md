@@ -1,4 +1,5 @@
 ### Olá, Eu sou o Dheniarley! 🚀
+Seja bem vindo ao meu repositório de projetos. 
 - 🔭  Desenvolvedor Full Stack Jr. e estudante na Trybe.
 - 🌱  Atualmente estou focado aprendendo TypeScrypt, colocando em prática o que venho aprendendo na Trybe.
 <!-- - 🛠️  Também estou desenvolvendo um projeto pessoal para fins didáticos:
@@ -10,6 +11,7 @@
         - Algumas Tecnólogias que serão usadas nesse projeto:
           - Next.js com as seguintes bibliotecas: * Reactstrap: Para implementar o layout da aplicação; * react-hook-form: Para poder gerenciar os formulários; * axios: Para fazer as requisições da API; * react-infinite-scroll-component: Para pode exibir os produtos no modelo de página infinita; * nookies: Para armazenar o Token gerado depois da autenticação na API em um cockie que será acessado tanto pelo lado do cliente como do lado do servidor;
 -->
+<hr>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <h4>Linguagens:</h4>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -51,6 +53,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
       width="40" height="40" />
   </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
@@ -60,9 +63,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" />
   </a>
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png"
+      alt="bootstrap" width="40" height="40" />
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true"
+      alt="bootstrap" width="100" height="40" />
   </a>
 <h4>Banco de dados:</h4>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -85,6 +96,10 @@
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
     </a>
+    <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
+      <img src="https://testing-library.com/img/octopus-64x64.png" alt="jest" width="40" height="40" />
+    </a>
+    
  <h4>Deploys:</h4>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -94,8 +109,14 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a>
  <h4>Ferramentas:</h4>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="git" width="40" height="40" />
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://i.pinimg.com/736x/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.jpg" alt="git" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
@@ -112,7 +133,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" />
   </a>
-
+<hr>
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhenycruz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
