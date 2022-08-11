@@ -12,6 +12,12 @@ Seja bem vindo ao meu repositório de projetos.
           - Next.js com as seguintes bibliotecas: * Reactstrap: Para implementar o layout da aplicação; * react-hook-form: Para poder gerenciar os formulários; * axios: Para fazer as requisições da API; * react-infinite-scroll-component: Para pode exibir os produtos no modelo de página infinita; * nookies: Para armazenar o Token gerado depois da autenticação na API em um cockie que será acessado tanto pelo lado do cliente como do lado do servidor;
 -->
 <hr>
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhenycruz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhenycruz&layout=compact&langs_count=7&theme=vue"/>
+</div>
+<hr>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <h4>Linguagens:</h4>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -134,8 +140,3 @@ Seja bem vindo ao meu repositório de projetos.
       width="40" height="40" />
   </a>
 <hr>
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhenycruz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhenycruz&layout=compact&langs_count=7&theme=vue"/>
-</div>
