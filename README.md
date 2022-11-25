@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Dheniarley! 🚀
 Seja bem vindo ao meu repositório de projetos. 
-- 🔭  Desenvolvedor Full Stack Jr. e estudante na Trybe.
-- 🌱  Atualmente estou focado aprendendo TypeScrypt, colocando em prática o que venho aprendendo na Trybe.
+- 🔭  Desenvolvedor Full Stack Jr.
+<!-- 🌱  Atualmente estou focado aprendendo TypeScrypt, colocando em prática o que venho aprendendo na Trybe. -->
 <!-- - 🛠️  Também estou desenvolvendo um projeto pessoal para fins didáticos:
     - <a href="https://github.com/dhenycruz/front-futebol-tips">Futebol-Tips</a>:
       Uma plataforma que vai receber dados de alguns campeonatos de futebol, onde o usuário poderá ver os dias de jogos,
