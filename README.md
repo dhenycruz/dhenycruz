@@ -140,3 +140,11 @@ Seja bem vindo ao meu repositório de projetos.
       width="40" height="40" />
   </a>
 <hr>
+
+---
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/26901028?s=400&u=d99619f0fcc7ff7d8407ff05a0e90a0149f959ee&v=4" width="100px;" alt=""/>
+ 
+ Dheniarley Cruz 🚀
+
+Desenvolvedor Full Stack 
