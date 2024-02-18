@@ -147,4 +147,6 @@ Seja bem vindo ao meu repositório de projetos.
  
  Dheniarley Cruz 🚀
 
+ Email: dheniarley.ds@gmail.com
+
 Desenvolvedor Full Stack 
